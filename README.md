@@ -1,4 +1,3 @@
-
 <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 <h3 align="center">
@@ -15,24 +14,24 @@
 - 👨‍💻  I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with Dart and Flutter, or anything related to mobile development.
 
-
-
 ### Connect with Me :
 
 <a href="www.linkedin.com/in/karim-ahmed-164214247" target="_blank"><img src="https://img.shields.io/badge/-Karim%20Ahmed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://t.me/KARiiM_AHMED" target="_blank"><img src="https://img.shields.io/badge/-Karim%20Ahmed-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+
 ### 🛠 &nbsp;Tech Stack
-![Dart](https://img.shields.io/badge/-dart-05122A?style=flat&logo=dart)&nbsp;
-![Flutter](https://img.shields.io/badge/-flutter-05122A?style=flat&logo=flutter&logoColor=563D7C)&nbsp;
+
+![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)&nbsp;
+![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=563D7C)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JS-05122A?style=flat&logo=javascript&logoColor=157222)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript&logoColor=157222)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![GitHub](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp;
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
+#### 🔧 &nbsp;Additional Skills
 
-
-
-
+![Bloc State Management](https://img.shields.io/badge/-Bloc-05122A?style=flat&logo=bloc)&nbsp;
+![Supabase](https://img.shields.io/badge/-Supabase-05122A?style=flat&logo=supabase)&nbsp;
