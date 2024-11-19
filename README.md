@@ -25,12 +25,12 @@ I am **Karim Ahmed**, a Software Engineer with a strong background in Dart and F
 ### 📊 Statistics Widgets
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karimahmed&show_icons=true&theme=radical" alt="GitHub Stats" width="400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karimahmed&theme=radical" alt="Streak Stats" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dev-KarimAhmed&show_icons=true&theme=radical" alt="GitHub Stats" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-KarimAhmed&theme=radical" alt="Streak Stats" width="400" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karimahmed&layout=compact&theme=radical" alt="Top Languages" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-KarimAhmed&layout=compact&theme=radical" alt="Top Languages" width="400" />
 </p>
 
 ---
